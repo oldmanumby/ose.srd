@@ -1,5 +1,5 @@
 
-![OSE Logo](OSE.Logo.Black.png)
+![OSE Logo](OSELogoBlack.png)
 
 ---
 
