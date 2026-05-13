@@ -11,7 +11,7 @@ This is an *Americanized* adaptation of the **Old-School Essentials (OSE) SRD** 
 
 **This Systems Reference Document (SRD)** contains guidelines for publishing your own OSE content under the Open-Gaming License [OGL](https://oldschoolessentials.necroticgnome.com/srd/index.php/Open_Game_License) or [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) (“CC-BY-4.0”).
 
-For additional information and other converted SRDs, please visit the [SRD Hub](https://oldmanumby.github.io/srd.hub).
+For additional information and other converted SRDs, please visit the [SRD Hub](https://srd.oldmanumby.com).
 
 <details>
  <summary>Why Markdown format?</summary>
